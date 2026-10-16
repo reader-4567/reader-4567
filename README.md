@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm Sai Kiran Kotla 👋
 
 ### Computer Science Engineering Student \| Aspiring Software Developer
@@ -40,7 +40,6 @@ programming concepts, and improving my problem-solving skills.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### Database
 
@@ -72,6 +71,14 @@ and user interaction.
 > Visit my repositories for project source code, implementation details,
 > and future updates.
 
+### 👨‍💻 GitHub Profile Viewer
+
+A web application that allows users to explore GitHub profiles by entering a username and viewing profile information, repositories, followers, and other GitHub statistics.
+
+Tech: HTML, CSS, JavaScript, GitHub API
+
+
+
 ## 📚 Currently Learning
 
 -   Data Structures and Algorithms
@@ -93,7 +100,3 @@ Profile](https://img.shields.io/badge/Visit%20my%20repositories-181717?style=for
     [linkedin.com/in/sai-kiran-kotla](https://linkedin.com/in/sai-kiran-kotla)
 
 ------------------------------------------------------------------------
-
-::: {align="center"}
-*Always learning, building, and improving one project at a time.*
-:::
