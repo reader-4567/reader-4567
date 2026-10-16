@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+
+# I'm Sai Kiran 👋
+
+I'm a B.Tech Computer Science student passionate about programming, learning new technologies, and building projects.
+
+- 🌱 Currently learning DSA and Web Development
+- 💻 Interested in Python, Java, JavaScript, and MySQL
+- 🚀 Building projects and improving my coding skills
+- 📫 GitHub: [reader-4567](https://github.com/reader-4567)
+- 🔗 LinkedIn: [Sai Kiran Kotla](https://linkedin.com/in/sai-kiran-kotla)
+
+
 <!--
 **reader-4567/reader-4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
