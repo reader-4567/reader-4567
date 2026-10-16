@@ -72,7 +72,7 @@ and user interaction.
 
 A web application that allows users to explore GitHub profiles by entering a username and viewing profile information, repositories, followers, and other GitHub statistics.
 
-Tech: HTML, CSS, JavaScript, GitHub API
+-   **Tech:** HTML, CSS, JavaScript, GitHub API
 
 > Visit my repositories for project source code, implementation details,
 > and future updates.
