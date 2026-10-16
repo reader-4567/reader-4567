@@ -1,7 +1,5 @@
-## Hi there 👋
 
-
-# I'm Sai Kiran 👋
+# Hi there I'm Sai Kiran 👋
 
 I'm a B.Tech Computer Science student passionate about programming, learning new technologies, and building projects.
 
