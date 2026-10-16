@@ -8,7 +8,7 @@ and Technology, Hyderabad**. I enjoy building web projects, learning
 programming concepts, and improving my problem-solving skills.
 
 [![GitHub](https://img.shields.io/badge/GitHub-reader--4567-181717?style=for-the-badge&logo=github)](https://github.com/reader-4567)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/sai-kiran-kotla-68136b377))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([(https://www.linkedin.com/in/sai-kiran-kotla-68136b377)](https://www.linkedin.com/in/sai-kiran-kotla-68136b377))
 
 
 ------------------------------------------------------------------------
