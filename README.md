@@ -9,7 +9,7 @@ programming concepts, and improving my problem-solving skills.
 
 [![GitHub](https://img.shields.io/badge/GitHub-reader--4567-181717?style=for-the-badge&logo=github)](https://github.com/reader-4567)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sai-kiran-kotla)
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -68,14 +68,14 @@ and user interaction.
 
 -   **Tech:** HTML, CSS, JavaScript
 
-> Visit my repositories for project source code, implementation details,
-> and future updates.
-
 ### 👨‍💻 GitHub Profile Viewer
 
 A web application that allows users to explore GitHub profiles by entering a username and viewing profile information, repositories, followers, and other GitHub statistics.
 
 Tech: HTML, CSS, JavaScript, GitHub API
+
+> Visit my repositories for project source code, implementation details,
+> and future updates.
 
 
 
@@ -88,10 +88,8 @@ Tech: HTML, CSS, JavaScript, GitHub API
 
 ## 📊 GitHub
 
-::: {align="center"}
 [![GitHub
 Profile](https://img.shields.io/badge/Visit%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reader-4567)
-:::
 
 ## 🤝 Connect With Me
 
